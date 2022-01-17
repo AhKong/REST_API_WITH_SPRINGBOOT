@@ -1,4 +1,2 @@
-# REST_API_WITH_SPRINGBOOT
+# 알고리즘 스터디
 
-
-인프런 강의 참고
