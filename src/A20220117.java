@@ -1,8 +1,6 @@
-package com.company.A20220117;
-
 import java.util.*;
 
-public class Main {
+public class A20220117 {
 // 1. 문자찾기
     public int solution(String str, char t){
         int answer = 0;
@@ -17,7 +15,7 @@ public class Main {
 
     public static void main(String[] args){
         Scanner in=new Scanner(System.in);
-        Main t = new Main();
+        A20220117 t = new A20220117();
         String input1 = in.next();
         char input2 = in.next().charAt(0);
         System.out.print(t.solution(input1,input2));
