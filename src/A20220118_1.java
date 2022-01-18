@@ -32,6 +32,10 @@ public class A20220118_1 {
             input = input.substring(pos+1);
         }
 
+        if(input.length() > maxLength){
+            answer = input;
+        }
+
         return answer;
     }
 
