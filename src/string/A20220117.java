@@ -1,3 +1,5 @@
+package string;
+
 import java.util.*;
 
 public class A20220117 {

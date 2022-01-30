@@ -1,4 +1,5 @@
-import java.util.Locale;
+package string;
+
 import java.util.Scanner;
 
 public class A20220120_1 {

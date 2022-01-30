@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package string;
+
 import java.util.Scanner;
 
 public class A20220120_2 {
