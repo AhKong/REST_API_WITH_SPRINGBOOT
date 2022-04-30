@@ -1,4 +1,6 @@
-class Solution {
+package array;
+
+class A20220429 {
  public int[] solution(int[] lottos, int[] win_nums) {
         int[] answer = new int[2];
         int max = 0;
